@@ -1,4 +1,23 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi, I'm Mohamed Afrar 👋
+
+I’m a **Second-Year Computer Science with Artificial Intelligence** student passionate about building intelligent systems and exploring the limitless possibilities of AI. I aim to become an **AI Engineer** and am actively looking for internship opportunities to grow and contribute to real-world AI projects.
+
+---
+
+## 🔭 Current Focus
+- Learning **Machine Learning & Deep Learning** concepts
+- Practicing **Python**, **Data Analysis**, and **AI project development**
+- Exploring **Computer Vision**, **NLP**, and **Generative AI**
+
+---
+
+You can explore all my projects [here](https://github.com/mohamedafrar).
+
+## 📫 Contact Me
+- Email: [mohamedafrar714@gmail.com](mailto:mohamedafrar714@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/mohamedafrar](https://www.linkedin.com/in/mohamedafrar)
+
+---
 
 ###
 
@@ -9,7 +28,7 @@
 
 ###
 
-<img align="right" height="156" src="https://tenor.com/cW9JKokwvuO.gif"  />
+<img align="right" height="156" src="[https://tenor.com/cW9JKokwvuO.gif](https://tenor.com/cW9JKokwvuO.gif)"  />
 
 ###
 
