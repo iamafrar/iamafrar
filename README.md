@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Afrar 👋
 
-I’m a **Second-Year Computer Science with Artificial Intelligence** student passionate about building intelligent systems and exploring the limitless possibilities of AI. I aim to become an **AI Engineer** and am actively looking for internship opportunities to grow and contribute to real-world AI projects.
+I’m a **Second Year Computer Science with Artificial Intelligence** student passionate about building intelligent systems and exploring the limitless possibilities of AI. I aim to become an **AI Engineer** and am actively looking for internship opportunities to grow and contribute to real world AI projects.
 
 ---
 
