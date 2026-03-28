@@ -4,22 +4,11 @@ I’m a **Second-Year Computer Science with Artificial Intelligence** student pa
 
 ---
 
-## 🔭 Current Focus
-- Learning **Machine Learning & Deep Learning** concepts
-- Practicing **Python**, **Data Analysis**, and **AI project development**
-- Exploring **Computer Vision**, **NLP**, and **Generative AI**
-
----
-
-You can explore all my projects [here](https://github.com/mohamedafrar).
-
 ## 📫 Contact Me
 - Email: [mohamedafrar714@gmail.com](mailto:mohamedafrar714@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/mohamedafrar](https://www.linkedin.com/in/mohamedafrar)
 
 ---
-
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
