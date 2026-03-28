@@ -6,7 +6,7 @@ I’m a **Second Year Computer Science with Artificial Intelligence** student pa
 
 ## 📫 Contact Me
 - Email: [mohamedafrar714@gmail.com](mailto:mohamedafrar714@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/mohamedafrar](https://www.linkedin.com/in/mohamedafrar)
+- LinkedIn: [https://www.linkedin.com/in/mohamedafrar](www.linkedin.com/in/mohamed-afrar)
 
 ---
 
