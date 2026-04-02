@@ -14,7 +14,7 @@ I’m a **Second Year Computer Science with Artificial Intelligence** student pa
 
 ###
 
-<img align="right" height="270" width="200" 
+<img align="right" height="271" width="200" 
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVweG13NXZudTZleTlmeDF0emZ4Z2kwbzZnY244dTZjMzFmOXRzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTLV2erK8vf1MIz4Rk/giphy.gif" />
 
 ###
