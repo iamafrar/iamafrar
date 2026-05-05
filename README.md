@@ -67,9 +67,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVweG13NXZudTZleTlmeDF0em
   <br>
 
   <p align="left">
-Passionate Computer Science student focused on Artificial Intelligence, Machine Learning, and Data Science. 
-    <br> I enjoy building real world projects and exploring modern technologies to understand
-    how intelligent systems operate.
+Passionate Computer Science student focused on Artificial Intelligence, Machine Learning, and Data Science.I enjoy building real world projects and exploring modern technologies to understand how intelligent systems operate.
 </p>
 
 
