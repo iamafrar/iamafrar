@@ -1,5 +1,5 @@
 # I am Mohamed Afrar 🦇
-<h2> Aspiring CSAI 2nd Year  Undergraduate | AI, Machine Learning  and Python Enthusiast | Seeking AI/ML Internship </h2>
+<h2> Aspiring AI, Machine Learning and Python Enthusiast </h2>
 
 I’m a **Second Year Computer Science with Artificial Intelligence** student passionate about building intelligent systems and exploring the limitless possibilities of AI. I aim to become an **AI Engineer** and am actively looking for internship opportunities to grow and contribute to real world AI projects.
 
