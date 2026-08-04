@@ -1,167 +1,144 @@
-<h1 align="center">Hi 👋, I'm Mohamed Afrar</h1>
+# Hi there! 👋 I'm Mohamed Afrar
 
-<h3 align="center">
-🚀 AI & Machine Learning Enthusiast | Python Developer | Computer Science with Artificial Intelligence Student
-</h3>
+<h3 align="center">🚀 Aspiring AI Engineer | Machine Learning Enthusiast | Python Developer</h3>
 
 <p align="center">
-Passionate about building intelligent systems, solving real-world problems with AI, and continuously learning modern technologies.
+Passionate about building intelligent systems, solving real-world problems with AI, and continuously learning emerging technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓**BSc (Hons) Computer Science with Artificial Intelligence** Student
+🎓 **Bsc Computer Science with Artificial Intelligence Student**
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Computer Vision, and Data Science**
+💡 Passionate about **Artificial Intelligence, Machine Learning, Data Science, and Python Development.**
 
-💻 Building AI-powered applications using **Python** and modern web technologies
+🎯 My goal is to become a professional **AI Engineer** by building impactful AI solutions that solve real-world problems.
 
-🌱 Currently learning **Deep Learning, LLMs, RAG Systems, FastAPI, and Cloud Deployment**
+🌱 Currently exploring:
 
-🎯 Aspiring **AI Engineer**
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Science
+- Python Development
 
-📍 Sri Lanka
-
-📫 **Reach me:** **withforgex@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-**Libraries**
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- MediaPipe
-- OpenCV
-- TensorFlow
-- Keras
-
----
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,firebase" />
-</p>
-
----
-
-## 🛢 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,apple" />
-</p>
+💼 Currently looking for **AI / Machine Learning Internship Opportunities** where I can learn, contribute, and grow.
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamafrar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamafrar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamafrar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamafrar&layout=compact&langs_count=8&theme=dracula"/>
 
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=iamafrar&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<img align="right" height="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVweG13NXZudTZleTlmeDF0emZ4Z2kwbzZnY244dTZjMzFmOXRzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTLV2erK8vf1MIz4Rk/giphy.gif"/>
 
-### 🧠 Sinhala Sign Language Recognition
-Deep learning based sign language recognition system using MediaPipe, BiLSTM with Attention, and TensorFlow.
+## 💻 Tech Stack
 
-### 🧠 Brain Tumor Detection
-Medical image classification system using MobileNetV2 and Transfer Learning.
+<div align="left">
 
-### 🌳 Deforestation Detection using Satellite Images
-Land cover classification and environmental monitoring using Landsat imagery and Machine Learning.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img width="12"/>
 
-### 🤖 AI Tutor
-An intelligent tutoring system powered by LLMs and Retrieval-Augmented Generation (RAG).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="35"/>
+
+</div>
 
 ---
 
-## 🎯 Current Goals
+## 🌐 Connect With Me
 
-- 🚀 Become an AI Engineer
-- 📚 Master Deep Learning & LLMs
-- ☁ Learn MLOps & Cloud AI
-- 🤝 Contribute to Open Source
-- 💼 Secure an AI/ML Internship
+<div align="left">
 
----
+<a href="mailto:mohamedafrar714@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🌍 Connect With Me
-
-<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-afrar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="https://github.com/iamafrar">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/mohamed-afrar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-<a href="mailto:withforgex@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🚀 About My Journey
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/iamafrar/iamafrar/output/snake.svg" alt="Snake animation" />
-
-</p>
+> Passionate Computer Science student focused on **Artificial Intelligence, Machine Learning, Computer Vision, and Data Science.**
+>
+> I enjoy developing real-world AI applications, exploring modern technologies, and continuously expanding my knowledge to create intelligent systems that make a meaningful impact.
 
 ---
 
-## 💡 Quote
+## 🟩 Contribution Graph
 
-> *"Artificial Intelligence isn't replacing human creativity—it amplifies it."*
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamafrar/iamafrar/output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamafrar/iamafrar/output/pacman-contribution-graph.svg">
+
+<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/iamafrar/iamafrar/output/pacman-contribution-graph.svg">
+
+</picture>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
-</p>
+<div align="center">
+
+### ⭐ "Learning today. Building tomorrow. Innovating with AI."
+
+</div>
