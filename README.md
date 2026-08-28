@@ -105,7 +105,7 @@ motto: "Learning today. Building tomorrow. Innovating with AI."
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=REPO_TWO&theme=dark&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=E8E8E8"/>
 </a>
 
-<sub>🦇 swap <code>(https://github.com/iamafrar/Deforestation-and-Land-Cover-Change-Analysis-.git)</code> / <code>https://github.com/iamafrar/AI-Based-Sinhala-Sign-Language-Translator.git/code> with your real repository names to close these case files</sub>
+<sub>🦇 swap <code>(https://github.com/iamafrar/Deforestation-and-Land-Cover-Change-Analysis-.git)</code> / <code>https://github.com/iamafrar/AI-Based-Sinhala-Sign-Language-Translator.git/code> </sub>
 
 </div>
 
