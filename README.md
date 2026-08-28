@@ -81,21 +81,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence, fo
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
-## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/iamafrar/Deforestation-and-Land-Cover-Change-Analysis-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=Deforestation-and-Land-Cover-Change-Analysis-&theme=dark&hide_border=true&bg_color=0F2027&title_color=64FFDA&icon_color=64FFDA&text_color=E8E8E8"/>
-</a>
-<a href="https://github.com/iamafrar/AI-Based-Sinhala-Sign-Language-Translator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=AI-Based-Sinhala-Sign-Language-Translator&theme=dark&hide_border=true&bg_color=0F2027&title_color=64FFDA&icon_color=64FFDA&text_color=E8E8E8"/>
-</a>
-
-</div>
-
-- 🌍 **Deforestation & Land Cover Change Analysis** — remote sensing data combined with machine learning to detect and track environmental change over time.
-- 🤟 **AI-Based Sinhala Sign Language Translator** — computer vision system that bridges communication gaps through real-time sign language recognition.
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
