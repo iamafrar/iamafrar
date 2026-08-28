@@ -1,59 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=220&section=header&text=Mohamed%20Afrar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=MOHAMED%20AFRAR&fontSize=55&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=%3C%20AI%20ENGINEER%20%2F%2F%20ML%20SYSTEMS%20%2F%2F%20NEURAL%20NETWORKS%20%3E&descAlignY=55&descSize=16&descColor=ff00e6"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+AI+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A;Exploring+Computer+Vision+%26+Deep+Learning+%F0%9F%91%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<br/>
+
+```ansi
+[38;5;51m╔══════════════════════════════════════════════════════════════╗[0m
+[38;5;51m║[0m  [38;5;213mSYSTEM.BOOT[0m  ›  Initializing user profile...                 [38;5;51m║[0m
+[38;5;51m║[0m  [38;5;213mSTATUS[0m      ›  ONLINE — Accepting AI/ML opportunities        [38;5;51m║[0m
+[38;5;51m╚══════════════════════════════════════════════════════════════╝[0m
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00FFF2&center=true&vCenter=true&width=750&height=60&lines=%3E+compiling_neural_networks.py...;%3E+training_model+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%91%91%5D+92%25;%3E+deploying_intelligent_systems...;%3E+status%3A+always_learning+%3D+True" alt="Typing SVG"/>
 
 <p>
-  <a href="mailto:mohamedafrar714@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-afrar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/iamafrar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0f0c29&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROLE-AI__ENGINEER-ff00e6?style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/BUILD-LEARNING__MODE-9d00ff?style=for-the-badge&labelColor=0f0c29"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=iamafrar&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="profile views"/>
-<a href="https://www.linkedin.com/in/mohamed-afrar"><img src="https://img.shields.io/badge/dynamic/json?color=success&label=followers&query=%24.data.totalCount&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fiamafrar&style=for-the-badge&logo=github" alt="followers"/></a>
+<p>
+  <a href="mailto:mohamedafrar714@gmail.com"><img src="https://img.shields.io/badge/GMAIL-00fff2?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-afrar"><img src="https://img.shields.io/badge/LINKEDIN-ff00e6?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29"/></a>
+  <a href="https://github.com/iamafrar"><img src="https://img.shields.io/badge/GITHUB-9d00ff?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=iamafrar&style=for-the-badge&color=00fff2&labelColor=0f0c29&label=SCANS+DETECTED"/>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## `<` root@afrar:~$ whoami `>`
 
 ```yaml
-name: Mohamed Afrar
-role: BSc Computer Science with Artificial Intelligence Student
-focus: [Artificial Intelligence, Machine Learning, Data Science, Computer Vision, Python]
-goal: Become a professional AI Engineer building real-world impact
-status: 💼 Open to AI / Machine Learning Internship opportunities
-fun_fact: "Learning today. Building tomorrow. Innovating with AI."
+identity:
+  name: "Mohamed Afrar"
+  class: "BSc Computer Science with Artificial Intelligence"
+  core_directives: [Machine Learning, Deep Learning, Computer Vision, Data Science]
+  mission: "Build intelligent systems that create real-world impact"
+  runtime_status: "💼 open_to_internship(domain='AI/ML')"
+  easter_egg: "Learning today. Building tomorrow. Innovating with AI."
 ```
 
-- 🔭 Currently building end-to-end **AI / ML** projects with a focus on **Computer Vision** and **Data Science**
-- 🌱 Deepening my knowledge of **Deep Learning**, **NLP**, and **MLOps**
-- 🤝 Open to collaborating on **AI/ML research** and **open-source** projects
-- 💬 Ask me about **Python, Machine Learning, OpenCV, or Data Analysis**
-- ⚡ Fun fact: I believe the best way to learn AI is to break something and rebuild it smarter
+```diff
++ actively training in: Deep Learning, Computer Vision, NLP
++ language of choice  : Python
+! debugging           : real-world problems, one model at a time
+# always compiling    : new ideas
+```
 
 <br/>
 
-## 🧰 Tech Stack
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## `<` tech_stack.json `>`
 
 <div align="center">
 
-**Languages & Core**
+**// core languages**
 
 <img src="https://skillicons.dev/icons?i=py,js,java,html,css&theme=dark"/>
 
-**AI / ML / Data**
+**// ai · ml · data**
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-00fff2?style=for-the-badge&logo=numpy&logoColor=0f0c29&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/Pandas-ff00e6?style=for-the-badge&logo=pandas&logoColor=0f0c29&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/scikit--learn-9d00ff?style=for-the-badge&logo=scikit-learn&logoColor=0f0c29&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/TensorFlow-00fff2?style=for-the-badge&logo=tensorflow&logoColor=0f0c29&labelColor=0f0c29"/>
+<img src="https://img.shields.io/badge/OpenCV-ff00e6?style=for-the-badge&logo=opencv&logoColor=0f0c29&labelColor=0f0c29"/>
 
-**Web & Tools**
+**// systems · tools**
 
 <img src="https://skillicons.dev/icons?i=react,mysql,firebase,git,arduino,vscode&theme=dark"/>
 
@@ -61,41 +80,47 @@ fun_fact: "Learning today. Building tomorrow. Innovating with AI."
 
 <br/>
 
-## 📊 GitHub Analytics
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## `<` neural_activity.log `>`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamafrar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamafrar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamafrar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=00fff2&icon_color=ff00e6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamafrar&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00fff2&text_color=c9d1d9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamafrar&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamafrar&theme=radical&hide_border=true&background=0f0c29&ring=ff00e6&fire=00fff2&currStreakLabel=00fff2"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamafrar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9A7&line=00C9A7&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamafrar&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00fff2&line=ff00e6&point=ffffff" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamafrar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamafrar&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## `<` deployed_systems `>`
 
 <div align="center">
 
 <a href="https://github.com/iamafrar?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=REPO_ONE&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=REPO_ONE&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00fff2&icon_color=ff00e6&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/iamafrar?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=REPO_TWO&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamafrar&repo=REPO_TWO&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00fff2&icon_color=ff00e6&text_color=c9d1d9"/>
 </a>
 
-<sub>💡 Replace <code>REPO_ONE</code> / <code>REPO_TWO</code> with your actual repository names to pin your best work here.</sub>
+<sub>⚠ swap <code>REPO_ONE</code> / <code>REPO_TWO</code> for your real repo names to display your top builds</sub>
 
 </div>
 
 <br/>
 
-## 🟩 Contribution Graph
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## `<` commit_grid.render() `>`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamafrar/iamafrar/output/pacman-contribution-graph-dark.svg">
@@ -104,26 +129,29 @@ fun_fact: "Learning today. Building tomorrow. Innovating with AI."
 </picture>
 
 <br/>
+<br/>
 
-## 🌐 Connect With Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## `<` uplink_channels `>`
 
 <p align="center">
-  <a href="mailto:mohamedafrar714@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-afrar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/iamafrar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="mailto:mohamedafrar714@gmail.com"><img src="https://img.shields.io/badge/GMAIL-00fff2?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-afrar"><img src="https://img.shields.io/badge/LINKEDIN-ff00e6?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29"/></a>
+  <a href="https://github.com/iamafrar"><img src="https://img.shields.io/badge/GITHUB-9d00ff?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29"/></a>
+  <img src="https://img.shields.io/badge/INSTAGRAM-00fff2?style=for-the-badge&logo=instagram&logoColor=0f0c29&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/DISCORD-ff00e6?style=for-the-badge&logo=discord&logoColor=0f0c29&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/TWITTER__X-9d00ff?style=for-the-badge&logo=x&logoColor=0f0c29&labelColor=0f0c29"/>
 </p>
-
----
 
 <div align="center">
 
-### ⭐ "Learning today. Building tomorrow. Innovating with AI."
+```ansi
+[38;5;51m"Learning today. Building tomorrow. Innovating with AI."[0m
+```
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVweG13NXZudTZleTlmeDF0emZ4Z2kwbzZnY244dTZjMzFmOXRzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTLV2erK8vf1MIz4Rk/giphy.gif" width="280"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
