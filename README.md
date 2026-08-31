@@ -27,11 +27,10 @@
 ## About Me
 
 ```yaml
-name: "Mohamed Afrar"
+name: Mohamed Afrar
 role: "AI Engineer in training"
 education: "BSc (Hons) Computer Science with Artificial Intelligence"
 focus: [Machine Learning, Deep Learning, Computer Vision, Data Science]
-core_tool: "Python"
 mission: "Build intelligent systems that solve real-world problems"
 availability: "Open to AI / Machine Learning internship opportunities"
 ```
