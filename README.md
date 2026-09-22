@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Mohamed%20Afrar&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=64FFDA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:D5E9E9,100:AEDFDA&height=230&section=header&text=Mohamed%20Afrar&fontSize=46&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=0F766E" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=64FFDA&center=true&vCenter=true&width=750&height=45&lines=Building+AI+systems+from+data+to+deployment;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+Applied+AI;Turning+real-world+problems+into+intelligent+solutions" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=0F766E&center=true&vCenter=true&width=750&height=45&lines=Building+AI+systems+from+data+to+deployment;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+Applied+AI;Turning+real-world+problems+into+intelligent+solutions" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20MACHINE%20LEARNING-0F2027?style=for-the-badge&labelColor=203A43&color=64FFDA"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20AI%2FML%20INTERNSHIPS-203A43?style=for-the-badge&labelColor=0F2027&color=64FFDA"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20MACHINE%20LEARNING-FFFFFF?style=for-the-badge&labelColor=E8F4F4&color=0F766E"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20AI%2FML%20INTERNSHIPS-E8F4F4?style=for-the-badge&labelColor=FFFFFF&color=0F766E"/>
 
 <br/><br/>
 
 <a href="mailto:mohamedafrar714@gmail.com">
-<img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/Email-E8F4F4?style=for-the-badge&logo=gmail&logoColor=0F766E"/>
 </a>
 <a href="https://www.linkedin.com/in/mohamed-afrar">
-<img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/LinkedIn-E8F4F4?style=for-the-badge&logo=linkedin&logoColor=0F766E"/>
 </a>
 <a href="https://github.com/iamafrar">
-<img src="https://img.shields.io/badge/GitHub-203A43?style=for-the-badge&logo=github&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/GitHub-E8F4F4?style=for-the-badge&logo=github&logoColor=0F766E"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iamafrar&style=for-the-badge&color=64FFDA&labelColor=203A43&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=iamafrar&style=for-the-badge&color=0F766E&labelColor=E8F4F4&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -69,11 +69,11 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/TensorFlow-0F2027?style=for-the-badge&logo=tensorflow&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Keras-0F2027?style=for-the-badge&logo=keras&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/scikit--learn-0F2027?style=for-the-badge&logo=scikit-learn&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/OpenCV-0F2027?style=for-the-badge&logo=opencv&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Keras-FFFFFF?style=for-the-badge&logo=keras&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikit-learn&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=0F766E"/>
 
 </p>
 
@@ -81,11 +81,11 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/RAG-203A43?style=for-the-badge&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/LLMs-203A43?style=for-the-badge&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Qwen-203A43?style=for-the-badge&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Ollama-203A43?style=for-the-badge&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Qdrant-203A43?style=for-the-badge&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/RAG-E8F4F4?style=for-the-badge&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/LLMs-E8F4F4?style=for-the-badge&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Qwen-E8F4F4?style=for-the-badge&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Ollama-E8F4F4?style=for-the-badge&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Qdrant-E8F4F4?style=for-the-badge&logoColor=0F766E"/>
 
 </p>
 
@@ -93,9 +93,9 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/NumPy-64FFDA?style=for-the-badge&logo=numpy&logoColor=0F2027"/>
-<img src="https://img.shields.io/badge/Pandas-64FFDA?style=for-the-badge&logo=pandas&logoColor=0F2027"/>
-<img src="https://img.shields.io/badge/Matplotlib-64FFDA?style=for-the-badge&logo=matplotlib&logoColor=0F2027"/>
+<img src="https://img.shields.io/badge/NumPy-0F766E?style=for-the-badge&logo=numpy&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Pandas-0F766E?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Matplotlib-0F766E?style=for-the-badge&logo=matplotlib&logoColor=FFFFFF"/>
 
 </p>
 
@@ -103,11 +103,11 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-203A43?style=for-the-badge&logo=python&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/JavaScript-203A43?style=for-the-badge&logo=javascript&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Java-203A43?style=for-the-badge&logo=openjdk&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/HTML5-203A43?style=for-the-badge&logo=html5&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/CSS3-203A43?style=for-the-badge&logo=css3&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/Python-E8F4F4?style=for-the-badge&logo=python&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/JavaScript-E8F4F4?style=for-the-badge&logo=javascript&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Java-E8F4F4?style=for-the-badge&logo=openjdk&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/HTML5-E8F4F4?style=for-the-badge&logo=html5&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/CSS3-E8F4F4?style=for-the-badge&logo=css3&logoColor=0F766E"/>
 
 </p>
 
@@ -115,14 +115,14 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/FastAPI-203A43?style=for-the-badge&logo=fastapi&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/React-203A43?style=for-the-badge&logo=react&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Next.js-203A43?style=for-the-badge&logo=next.js&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/MySQL-203A43?style=for-the-badge&logo=mysql&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/PostgreSQL-203A43?style=for-the-badge&logo=postgresql&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Firebase-203A43?style=for-the-badge&logo=firebase&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/Git-203A43?style=for-the-badge&logo=git&logoColor=64FFDA"/>
-<img src="https://img.shields.io/badge/GitHub-203A43?style=for-the-badge&logo=github&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/FastAPI-E8F4F4?style=for-the-badge&logo=fastapi&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/React-E8F4F4?style=for-the-badge&logo=react&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Next.js-E8F4F4?style=for-the-badge&logo=next.js&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/MySQL-E8F4F4?style=for-the-badge&logo=mysql&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/PostgreSQL-E8F4F4?style=for-the-badge&logo=postgresql&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Firebase-E8F4F4?style=for-the-badge&logo=firebase&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/Git-E8F4F4?style=for-the-badge&logo=git&logoColor=0F766E"/>
+<img src="https://img.shields.io/badge/GitHub-E8F4F4?style=for-the-badge&logo=github&logoColor=0F766E"/>
 
 </p>
 
@@ -136,13 +136,13 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamafrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F2027&title_color=64FFDA&icon_color=64FFDA&text_color=E8E8E8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamafrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=0F766E&text_color=1E293B"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamafrar&layout=compact&langs_count=8&hide_border=true&bg_color=0F2027&title_color=64FFDA&text_color=E8E8E8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamafrar&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0F766E&text_color=1E293B"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamafrar&hide_border=true&background=0F2027&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=E8E8E8&dates=E8E8E8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamafrar&hide_border=true&background=FFFFFF&ring=0F766E&fire=0F766E&currStreakLabel=0F766E&sideLabels=1E293B&dates=1E293B"/>
 
 </div>
 
@@ -154,7 +154,7 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamafrar&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamafrar&theme=flat&no-frame=true&row=1&column=7&margin-w=8" width="95%"/>
 
 </div>
 
@@ -166,7 +166,7 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iamafrar/iamafrar/output/pacman-contribution-graph-dark.svg" width="90%" alt="Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/iamafrar/iamafrar/output/pacman-contribution-graph.svg" width="90%" alt="Contribution Graph"/>
 
 </div>
 
@@ -179,15 +179,15 @@ I'm particularly interested in turning research concepts into **useful, reliable
 <div align="center">
 
 <a href="mailto:mohamedafrar714@gmail.com">
-<img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/Email-E8F4F4?style=for-the-badge&logo=gmail&logoColor=0F766E"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-afrar">
-<img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/LinkedIn-E8F4F4?style=for-the-badge&logo=linkedin&logoColor=0F766E"/>
 </a>
 
 <a href="https://github.com/iamafrar">
-<img src="https://img.shields.io/badge/GitHub-203A43?style=for-the-badge&logo=github&logoColor=64FFDA"/>
+<img src="https://img.shields.io/badge/GitHub-E8F4F4?style=for-the-badge&logo=github&logoColor=0F766E"/>
 </a>
 
 <br/><br/>
@@ -196,4 +196,4 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEDFDA,50:D5E9E9,100:FFFFFF&height=120&section=footer" width="100%"/>
