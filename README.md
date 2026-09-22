@@ -67,7 +67,7 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlxbnpxMmd1bmk2dW43b3J4bjQ3NDVubXo3dXZiemxjcXV2c2VtayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QGLJkZaouX1ks/200.gif" width="150"/>
 
-<i>"It's not who I am underneath, but what I debug that defines me."</i> 🦇
+🦇 <i>90% data cleaning, 10% waiting for epochs to finish, 100% coffee.</i> 🦇
 
 </div>
 
