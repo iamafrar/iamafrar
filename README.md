@@ -63,6 +63,16 @@ I'm particularly interested in turning research concepts into **useful, reliable
 
 <br/>
 
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlxbnpxMmd1bmk2dW43b3J4bjQ3NDVubXo3dXZiemxjcXV2c2VtayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QGLJkZaouX1ks/200.gif" width="150"/>
+
+<i>"It's not who I am underneath, but what I debug that defines me."</i> 🦇
+
+</div>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🧠 AI & Machine Learning
