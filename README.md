@@ -34,7 +34,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Mohamed Afrar
+name: Mohammadh Afrar
 role: "AI Engineer in Training"
 education: "BSc (Hons) Computer Science with Artificial Intelligence"
 focus:
