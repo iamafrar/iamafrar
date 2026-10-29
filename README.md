@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:D5E9E9,100:AEDFDA&height=230&section=header&text=Mohamed%20Afrar&fontSize=46&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=0F766E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:D5E9E9,100:AEDFDA&height=230&section=header&text=Mohammadh%20Afrar&fontSize=46&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=0F766E" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=0F766E&center=true&vCenter=true&width=750&height=45&lines=Building+AI+systems+from+data+to+deployment;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+RAG+%7C+Applied+AI;Turning+real-world+problems+into+intelligent+solutions" alt="Typing SVG"/>
 
